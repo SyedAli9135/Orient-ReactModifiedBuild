@@ -1,1 +1,3 @@
-# Orient-ReactModifiedBuild
+# Orient-ReactBuild
+npm install 
+Then enjoy
